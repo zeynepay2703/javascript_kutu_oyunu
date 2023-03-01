@@ -1,6 +1,6 @@
-# Todo Uygulaması
-## Laravel & Flutter
-###### Üniversitede mobil uygulama dersi için Zeynep Nezaket Aydın ile yaptığımız todo app
+# JavaScript kutu oyunu
+## JavaScript
+###### 9x9 luk kutuların rengi her 2 saniyede bir değişmektedir. Kullanıcı doğru renkteki kutucuğa bastığı takdirde skor puanı artmaktadır ve kullanıcı 2 saniyeden önce kutucuğa basarsa kutucuk 2 saniyeyi beklemeden random olarak renk değiştirecektir. Her yanlış kutucuğa bastığında puanı düşecektir. Kullanıcının skorları localStorage ile kaydedilmektedir.
 ---
 ### Görseller
 
